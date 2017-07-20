@@ -6,7 +6,7 @@ Date: July 20, 2017
 
 Presented by Carol Willing, Cal Poly SLO and Jupyter Steering Council [@willingcarol](https://twitter.com/WillingCarol)
 
-Abstract:
+## Abstract
 
 **Project Jupyter**, evolved from the IPython environment, provides a platform for
 interactive computing that is widely used today in research, education,
@@ -42,17 +42,16 @@ used by groups of users for research collaboration and education.
 
 - Gateways 2016 Fernando Perez keynote [*Project Jupyter: Interactive Computing in the Context of Scientific Gateways*](https://youtu.be/s98IGzlptHw)
 
-
-
+- Many other wonderful Jupyter talks on YouTube (search PyData, SciPy) and [pyvideo.org](https://pyvideo.org)
 
 ## Thank you for your support. -- Project Jupyter
 
 Stay connected with us. Ask questions and collaborate.
 
-- [Jupyter Mailing List]
-- [Jupyter in Education Mailing List]
-- [Jupyter in HPC Mailing List]
-- Gitter [jupyter]() | [jupyterlab]() | [jupyterhub]()
+- [Jupyter Mailing List](https://groups.google.com/forum/#!forum/jupyter)
+- [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
+- [Jupyter in HPC Mailing List](https://groups.google.com/forum/#!forum/jupyter-hpc)
+- Gitter [jupyter](https://gitter.im/jupyter/jupyter) | [jupyterlab](https://gitter.im/jupyterlab/jupyterlab) | [jupyterhub](https://gitter.im/jupyterhub/jupyterhub)
 - [NumFocus](https://www.numfocus.org)
 
 
